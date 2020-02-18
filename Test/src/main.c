@@ -15,7 +15,6 @@ int main(){
 	setvbuf(stdout,NULL,_IONBF,0);
 	int a,b;
 	getData(&a,&b);
-	//sum(a,b);
 }
 
 void sum(int x,int y){
